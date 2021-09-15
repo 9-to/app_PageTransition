@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PageTransition</string>
+    <string name="first_text">どれを選びますか？</string>
+    <string name="back_text">戻る</string>
+    <string name="result1">大吉です</string>
+    <string name="result2">中吉です</string>
+    <string name="result3">小吉です</string>
+</resources>
